@@ -46,4 +46,4 @@ The refined final presentation deck summarizing the complete project is included
 
 I'm a B.Tech Computer Science student specializing in Data Science, currently building a career toward Data Analytics and Data Science roles. This internship strengthened my end-to-end analytics workflow — from messy raw data to a validated, decision-ready business narrative.
 
-Connect with me on [LinkedIn](#) or explore the individual task repositories linked above for the full technical breakdown.
+Connect with me on www.linkedin.com/in/vanshika-dharpure-503763328 or explore the individual task repositories linked above for the full technical breakdown.
