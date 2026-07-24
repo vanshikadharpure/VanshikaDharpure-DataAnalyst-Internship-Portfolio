@@ -23,7 +23,7 @@ Across the analysis, Electronics and East India consistently led every revenue c
 
 ## Final Presentation
 
-The refined final presentation deck summarizing the complete project is included in this repository: `Final_Presentation.pptx`
+The refined final presentation deck summarizing the complete project is included in this repository: [Final_Presentation.pptx](./Final_Presentation.pptx).
 
 ## Skills & Tools Demonstrated
 
