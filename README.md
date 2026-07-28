@@ -40,7 +40,7 @@ The refined final presentation deck summarizing the complete project is included
 - SQL (MySQL Workbench)
 - Power BI
 - Jupyter Notebook
-- GitHub
+- GitHub 
 
 ## About Me
 
